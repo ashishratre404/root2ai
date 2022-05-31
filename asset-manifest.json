@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/root2ai/static/css/main.5bb77537.css",
+    "main.js": "/root2ai/static/js/main.bcb29f57.js",
+    "index.html": "/root2ai/index.html",
+    "main.5bb77537.css.map": "/root2ai/static/css/main.5bb77537.css.map",
+    "main.bcb29f57.js.map": "/root2ai/static/js/main.bcb29f57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bb77537.css",
+    "static/js/main.bcb29f57.js"
+  ]
+}
