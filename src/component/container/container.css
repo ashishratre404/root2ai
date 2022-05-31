@@ -1,0 +1,35 @@
+.container{
+    width: 100vw;
+    height: 400px;
+    
+}
+.heading{
+    height: 30%;
+    background-color: rgb(211, 221, 221);
+    display: flex;
+}
+.headingLeft{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+    font-size: 22px;
+    color: rgb(46, 44, 44);
+}
+.headingRight{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+    font-size: 20px;
+    color: rgb(76, 75, 75);
+}
+.headingRight span{
+    color: rgb(6, 146, 202);
+}
+.content{
+    margin-left: 100px;
+    
+}
